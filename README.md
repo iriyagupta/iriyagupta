@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I am currently a graduate student at Columbia University in the Electrical Engineering Department. Here, I am working with Prof. Shih-Fu Chang & Dr. Long Chen (Post-Doc), in the DVMM lab as a graduate research assistant.
+
+Before Columbia, I have been part of GREYC Lab (UNICAEN-CNRS-ENSICAEN) and was a research fellow at Center for Visual Information Technology (CVIT), IIIT Hyderabad.
+
+
 
 <!--
 **iriyagupta/iriyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
