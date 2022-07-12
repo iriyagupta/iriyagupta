@@ -4,6 +4,7 @@
 
 Before Columbia, I have been part of GREYC Lab (UNICAEN-CNRS-ENSICAEN) and was a research fellow at Center for Visual Information Technology (CVIT), IIIT Hyderabad.
 
+- I am currently internirng on speech recoginition and voice activity detection at Silicon Labs in Austin in the Central R&D team.
 
 
 <!--
