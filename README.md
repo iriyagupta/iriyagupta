@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I am currently a graduate student at Columbia University in the Electrical Engineering Department. Here, I am working with Prof. Shih-Fu Chang & Dr. Long Chen (Post-Doc), in the DVMM lab as a graduate research assistant.
+#### I am currently a graduate student at Columbia University in the Electrical Engineering Department. Here, I am working with Prof. Shih-Fu Chang, Dr. Long Chen (Post-Doc) and Xudong Lin (PhD), in the DVMM lab as a graduate research assistant.
 
-Before Columbia, I have been part of GREYC Lab (UNICAEN-CNRS-ENSICAEN) and was a research fellow at Center for Visual Information Technology (CVIT), IIIT Hyderabad.
+Before Columbia, I was part of the GREYC Lab (UNICAEN-CNRS-ENSICAEN) and was a research fellow at the Center for Visual Information Technology (CVIT), IIIT Hyderabad.
 
-- I am currently internirng on speech recoginition and voice activity detection at Silicon Labs in Austin in the Central R&D team.
+- I am currently a full-time employee as a ML Engineer on speech recognition and voice activity detection at Silicon Labs in Austin in the Central R&D team. I am looking for new opportunities and would love to connect.
 
 
 <!--
