@@ -14,7 +14,6 @@ Welcome to my GitHub profile. A brief introduction about me:
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
 - Fun fact: I am a jack of all trades, trying to master a few!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
  
 <!--
 **iriyagupta/iriyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
