@@ -1,8 +1,8 @@
 ### Hi there, my name is Riya Gupta 👋
 
-Welcome to my profile : ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=iriyagupta.visitor-badge)
+Welcome to my profile!
 
-Welcome to my GitHub profile. A brief introduction about me:
+A brief introduction about me:
 - 🔭 Currently available in the job market, please reach out on https://www.linkedin.com/in/iriyagupta/
 - 🌱 Machine Learning Engineer I at Silicon Laboratories Inc. for Audio Speech Recognition
 - 🌱 Primarily work on end-to-end development of Machine Learning models, optimising infrastructure (MLOps) and algorithms (exp 3+ years)
@@ -15,11 +15,3 @@ Welcome to my GitHub profile. A brief introduction about me:
 - Mentoring with WTM, Google NYC 
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
 - Fun fact: I am a jack of all trades, trying to master a few!
- 
-<!--
-**iriyagupta/iriyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
