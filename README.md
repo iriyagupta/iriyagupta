@@ -13,7 +13,8 @@ Welcome to my GitHub profile. A brief introduction about me:
 - Mentoring with WTM, Google NYC 
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
 - Fun fact: I am a jack of all trades, trying to master a few!
-
+- 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=iriyagupta.visitor-badge)
  
 <!--
 **iriyagupta/iriyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
