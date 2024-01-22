@@ -9,7 +9,7 @@ Welcome to my GitHub profile. A brief introduction about me:
 - 👯 Researching in Generative AI & LLMs with Prof. Julia Hirschberg in the Speech Lab @ Columbia University
 - 👯 Collaborating with Prof. Hongseok Namgook @ Columbia Business School in the field of AI-based Queuing methods
 - 💬 Ask me about : my stance on current research trends in LLMs and GEN AI
-- 📫 How to reach me: [] https://www.linkedin.com/in/iriyagupta/
+- 📫 How to reach me: https://www.linkedin.com/in/iriyagupta/
 - Mentoring with WTM, Google NYC 
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
  
