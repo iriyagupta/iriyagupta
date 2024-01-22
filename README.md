@@ -2,7 +2,7 @@
 
 
 Welcome to my GitHub profile. A brief introduction about me:
-- 🔭 Currently available in the job market
+- 🔭 Currently available in the job market, please reach out on https://www.linkedin.com/in/iriyagupta/
 - 🌱 Machine Learning Engineer I at Silicon Laboratories Inc. for Audio Speech Recognition
 - 🌱 Primarily work on end-to-end development of Machine Learning models, optimising infrastructure (MLOps) and algorithms (exp 3+ years)
 - 👯 Exploring Multimodal and Representation Learning with Prof. Shih-Fu Chang @ Columbia University
