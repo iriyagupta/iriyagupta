@@ -1,23 +1,22 @@
 ### Hi there 👋
 
-#### I am currently a graduate student at Columbia University in the Electrical Engineering Department. Here, I am working with Prof. Shih-Fu Chang, Dr. Long Chen (Post-Doc) and Xudong Lin (PhD), in the DVMM lab as a graduate research assistant.
 
-Before Columbia, I was part of the GREYC Lab (UNICAEN-CNRS-ENSICAEN) and was a research fellow at the Center for Visual Information Technology (CVIT), IIIT Hyderabad.
-
-- I am currently a full-time employee as a ML Engineer on speech recognition and voice activity detection at Silicon Labs in Austin in the Central R&D team. I am looking for new opportunities and would love to connect.
-
-
+Welcome to my GitHub profile. A brief introduction about me:
+- 🔭 Currently available in the job market
+- 🌱 Machine Learning Engineer I at Silicon Laboratories Inc. for Audio Speech Recognition
+- 🌱 Primarily work on end-to-end development of Machine Learning models, optimising infrastructure (MLOps) and algorithms (exp 3+ years)
+- 👯 Exploring Multimodal and Representation Learning with Prof. Shih-Fu Chang @ Columbia University
+- 👯 Researching in Generative AI & LLMs with Prof. Julia Hirschberg in the Speech Lab @ Columbia University
+- 👯 Collaborating with Prof. Hongseok Namgook @ Columbia Business School in the field of AI-based Queuing methods
+- 💬 Ask me about : my stance on current research trends in LLMs and GEN AI
+- 📫 How to reach me: [] https://www.linkedin.com/in/iriyagupta/
+- Mentoring with WTM, Google NYC 
+- Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
+ 
 <!--
 **iriyagupta/iriyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
