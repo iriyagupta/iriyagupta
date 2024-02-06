@@ -16,4 +16,3 @@ A brief introduction about me:
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
 - Fun fact: I am a jack of all trades, trying to master a few!
 
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=iriyagupta&show_icons=true&theme=radical)
