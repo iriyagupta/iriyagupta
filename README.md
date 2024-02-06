@@ -16,3 +16,6 @@ A brief introduction about me:
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
 - Fun fact: I am a jack of all trades, trying to master a few!
 
+My top languages are :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iriyagupta&layout=compact&theme=vision-friendly-dark)](https://github.com/iriyagupta/github-readme-stats)
