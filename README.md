@@ -9,7 +9,6 @@ A brief introduction about me:
 - 🌱 Avid collaborator in the Data Science field
 - 👯 Exploring Multimodal and Representation Learning with Prof. Shih-Fu Chang @ Columbia University
 - 👯 Researching in Generative AI & LLMs with Prof. Julia Hirschberg in the Speech Lab @ Columbia University
-- 👯 Collaborating with Prof. Hongseok Namgook @ Columbia Business School in the field of AI-based Queuing methods
 - 💬 Ask me about my stance on current research trends in LLMs and GEN AI
 - 📫 How to reach me: https://www.linkedin.com/in/iriyagupta/
 - Mentoring with WTM, Google NYC 
