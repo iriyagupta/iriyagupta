@@ -4,6 +4,8 @@ Welcome to my profile!
 
 A brief introduction about me:
 - 🔭 Currently available in the job market, please reach out on https://www.linkedin.com/in/iriyagupta/
+- 🌱 Machine Learning Research Engineer at Goldman Sachs in the AI Research - NLP Modeling team
+- 🌱 Machine Learning Researcher at MSKCC wokring on detecting Peripheral Blood Smears and Cancer
 - 🌱 Machine Learning Engineer I at Silicon Laboratories Inc. for Audio Speech Recognition
 - 🌱 Primarily work on end-to-end development of Machine Learning models, optimising infrastructure (MLOps) and algorithms (exp 3+ years)
 - 🌱 Avid collaborator in the Data Science field
