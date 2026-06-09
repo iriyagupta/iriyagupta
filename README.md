@@ -1,6 +1,6 @@
 ### Hi there, my name is Riya Gupta 👋
 
-Welcome to my profile!
+Welcome to my profile! Yes, this is me in the profile picture, no, this is not who you think it is :)
 
 A brief introduction about me:
 - 🔭 Currently available in the job market, please reach out on https://www.linkedin.com/in/iriyagupta/
