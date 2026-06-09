@@ -15,7 +15,7 @@ A brief introduction about me:
 - 📫 How to reach me: https://www.linkedin.com/in/iriyagupta/
 - Mentoring with WTM, Google NYC 
 - Previously at UNICAEN France, IIIT Hyderabad & NERV LLC (start-up on mental health)
-- Fun fact: I am a jack of all trades, trying to master a few!
+- Fun fact: I am a jack of all trades, master of none!
 
 My top languages are :
 
